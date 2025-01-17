@@ -5,7 +5,7 @@ const yesBtn = document.querySelector('.yes-btn');
 const noBtn = document.querySelector('.no-btn');
 
 yesBtn.addEventListener('click',()=>{
-    quesion.innerHTML ="I Love You Too🤍🫶"
+    quesion.innerHTML ="I Love You Too Babe🤍🫶"
     gif.src=
     "https://www.whoa.in/download/hug-me-kiss-me-love-me-animated-gif-of-emojis-and-cartoon-3-emoji-gif"
 });
